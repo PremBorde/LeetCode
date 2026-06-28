@@ -5,7 +5,8 @@ class Solution:
         #        return ch 
         #return letters[0]
 
-        left, right = 0, len(letters) - 1   # indices of first and last element
+        left = 0
+        right = len(letters) - 1   # indices of first and last element
         while left <= right:
             mid = (left + right) // 2
             if letters[mid] <= target:
