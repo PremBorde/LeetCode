@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/PremBorde/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PremBorde/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/PremBorde/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/PremBorde/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/PremBorde/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PremBorde/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PremBorde/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PremBorde/LeetCode/tree/master/0053-maximum-subarray) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PremBorde/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PremBorde/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/PremBorde/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PremBorde/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1301-number-of-paths-with-max-score](https://github.com/PremBorde/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PremBorde/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
