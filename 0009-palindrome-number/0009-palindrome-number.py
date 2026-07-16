@@ -1,6 +1,6 @@
 class Solution:
     def isPalindrome(self, x: int) -> bool:
-        if x < 0:
+        if x < 0:  # If number is negative then false
             return False
         temp = x    # Kepp the original Number
         rev = 0    
