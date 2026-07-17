@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PremBorde/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PremBorde/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/PremBorde/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PremBorde/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PremBorde/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PremBorde/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/PremBorde/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PremBorde/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PremBorde/LeetCode/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/PremBorde/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PremBorde/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PremBorde/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PremBorde/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/PremBorde/LeetCode/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/PremBorde/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PremBorde/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/PremBorde/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PremBorde/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/PremBorde/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/PremBorde/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PremBorde/LeetCode/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/PremBorde/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PremBorde/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PremBorde/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/PremBorde/LeetCode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/PremBorde/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/PremBorde/LeetCode/tree/master/0268-missing-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PremBorde/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PremBorde/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PremBorde/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -199,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PremBorde/LeetCode/tree/master/0268-missing-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PremBorde/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
