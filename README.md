@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/PremBorde/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PremBorde/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/PremBorde/LeetCode/tree/master/0283-move-zeroes) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PremBorde/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PremBorde/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PremBorde/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PremBorde/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PremBorde/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PremBorde/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PremBorde/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PremBorde/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PremBorde/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PremBorde/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PremBorde/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PremBorde/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PremBorde/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PremBorde/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/PremBorde/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PremBorde/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PremBorde/LeetCode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/PremBorde/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/PremBorde/LeetCode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PremBorde/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PremBorde/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/PremBorde/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Math
